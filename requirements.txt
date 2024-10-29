@@ -1,0 +1,8 @@
+PyQt6
+SQLAlchemy
+pandas
+networkx
+plotly
+tweepy
+python-dotenv
+PyQt6-WebEngine
