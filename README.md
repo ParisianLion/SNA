@@ -15,5 +15,5 @@ A desktop application for managing contacts, visualizing relationships in 3D, an
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/ParisianLion/social_network_app.git
-cd social_network_app
+git clone https://github.com/ParisianLion/SNA.git
+cd SNA
