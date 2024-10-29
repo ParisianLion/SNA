@@ -1,4 +1,5 @@
-from PyQt6.QtWidgets import QMainWindow, QAction, QTabWidget, QApplication
+from PyQt6.QtGui import QAction  # Change this line
+from PyQt6.QtWidgets import QMainWindow, QTabWidget, QApplication
 from gui.add_contact_dialog import AddContactDialog
 from gui.add_relationship_dialog import AddRelationshipDialog
 from gui.analytics_dashboard import AnalyticsDashboard
